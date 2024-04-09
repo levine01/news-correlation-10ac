@@ -159,5 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 c:\Users\User\OneDrive\Documents\P-projects\news-correlation-10ac\gitignore\data.csv
-c:\Users\User\OneDrive\Documents\P-projects\news-correlation-10ac\gitignore\rating.csv
-c:\Users\User\OneDrive\Documents\P-projects\news-correlation-10ac\gitignore\raw-data.csv
+c:\Users\User\OneDrive\Documents\P-projects\news-correlation-10ac\domains_location.csvc:\Users\User\OneDrive\Documents\P-projects\news-correlation-10ac\traffic.csv
